@@ -1,0 +1,14 @@
+Flask==2.3.2
+Flask-SocketIO==5.3.3
+python-socketio==5.7.2
+eventlet==0.33.3  # Flask-SocketIO requires an async server
+langchain
+langchain_google_genai
+langchain_community
+langchain_chroma
+langchain_core
+sentence-transformers==2.2.2  # For HuggingFace embeddings
+openai
+pypdf==5.0.0
+PyPDF2==3.0.1  # For loading PDF files
+python-dotenv==1.0.
