@@ -11,4 +11,4 @@ sentence-transformers==2.2.2  # For HuggingFace embeddings
 openai
 pypdf==5.0.0
 PyPDF2==3.0.1  # For loading PDF files
-python-dotenv==1.0.
+python-dotenv==1.0
