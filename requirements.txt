@@ -12,3 +12,4 @@ openai
 pypdf==5.0.0
 PyPDF2==3.0.1  # For loading PDF files
 python-dotenv==1.0
+sqlite3 = 3.35.0
